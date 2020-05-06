@@ -1,3 +1,15 @@
+/* Copyright (C) 2020 Sai Manasa S
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * Description: This is a program used to find 2 integer array 
+ * elements that add up to a given target sum
+ *
+ * Revision History:
+ * Initial version: 1 - May 6th, 2020
+ */
+
 #include <iostream>
 #include <vector>
 
